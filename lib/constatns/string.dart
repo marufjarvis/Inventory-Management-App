@@ -1,0 +1,45 @@
+//view
+const String appName = "Inventory Management";
+const String email = "email";
+const String token = "toekn";
+const String userType = "user-type";
+const String dashboard = "Dashboard";
+const String login = "Sign in";
+const String create = "Sign Up";
+const String enterEmail = "Email";
+const String enterPassword = "Password";
+const String register = "Sign Up";
+const String enterUsername = "Username";
+const String enterNewPass = "Password";
+const String enterConfirmPass = "Confirm Password";
+const String change = "Change";
+const String backtoLogin = "Back to Login?";
+const String forgotPassword = "Forgot Password";
+const String resetPassword = "Reset Password";
+const String donotHavaAccount = "Don't Have An Account?";
+const String alreadyHavaAccount = "Already Have An Account?";
+const String buildingList = "Building List";
+const String assetList = "Asset List";
+const String save = "Save";
+const String buildingName = "Building Name";
+const String assetsName = "Asset Name";
+const String floorList = "Floor List";
+const String roomeList = "Room List";
+const String createAsset = "Create Asset";
+const String ok = "Ok";
+const String retake = "Retake";
+const String setAssetDetail = "Set Asset Details";
+const String initialTagno = "Initial Tag No";
+const String remarkNote = "Remarks/Note";
+const String addNewAsset = "Add or Show Asset";
+const String showAssetList = "Show Asset List";
+//route
+const String initialRoute = "/";
+const String loginRoute = "/login-route";
+const String registrationRoute = "/registration-route";
+const String homeRoute = "/home-route";
+const String forgotRoute = "/forgot-route";
+const String floorroomRoute = "/floor-room-route";
+const String addbuildingassetRoute = "/add-buildig-asset-route";
+const String assetLIstRoute = "/asset-list-route";
+//assetsp
